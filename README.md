@@ -1,1 +1,1 @@
-Códigos utilizados em exemplo de criação de token que denominamos UELToken. O token foi criado no ambiente Ethereum utilizando o Truffle, Ganache e OpenZeppelin.
+Códigos utilizados em exemplo de criação de token que denominamos UELToken. O token foi criado no ambiente Ethereum utilizando o Truffle, Ganache e OpenZeppelin. Além disso, foi criado um faucet (UELFaucet), que opera como um contrato que pode ser autorizado a transferir uma quantidade pré-definida de tokens do dono do contrato UELToken para outras contas. 
