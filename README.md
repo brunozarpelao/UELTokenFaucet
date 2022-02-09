@@ -1,0 +1,1 @@
+Códigos utilizados em exemplo de criação de token que denominamos UELToken. O token foi criado no ambiente Ethereum utilizando o Truffle, Ganache e OpenZeppelin.
